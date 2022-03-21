@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @impedroricardo
-- 👀 I’m interested in learning Python 
-- 🌱 I’m currently learning Analysis and systems development
-- 💞️ I’m looking to collaborate on projects that have this type of language
-- 📫 You can reach me through my e-mail adress "pedroricardoos99@gmail.com        
+- 👋 Olá! Eu sou Pedro Ricardo
+
+- 👀 Estou interessado em aprender Python 
+- 🌱 Estou cursando Análise e Desenvolvimento de Sistemas
+- 📫 Pode falar comigo através do meu e-mail "pedror.profissional@gmail.com"       
