@@ -9,7 +9,18 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=impedroricardo&layout=compact&langs_count=7&theme=dark"/>
 </div>
  -------------------------------------------------------------------------------------------------------------------------------------------------------
-<div style="display: flex">
+<div style="display: flex
+    width: 280px;
+    text-align: center;
+    border-radius: 16px;
+    padding: 21.5px 0px;
+    text-decoration: none;
+    color: #000000;
+    font-family: 'Montserrat';
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 36px; /* 150% */">
   <a href = "mailto:pedror.profissional@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/impedroricardo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href="https://www.linkedin.com/in/impedroricardo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
