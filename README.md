@@ -1,4 +1,4 @@
-<div align="center">
+<div display="flex" flex-direction="column">
 - 👋 Olá! Eu sou Pedro Ricardo
 - 👀 Estou interessado em aprender Front End
 - 🌱 Estou cursando Análise e Desenvolvimento de Sistemas
