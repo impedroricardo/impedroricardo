@@ -1,6 +1,6 @@
  ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## Pedro Ricardo, criador de conteúdo e desenvolvedor Front End!
+## Pedro Ricardo, Desenvolvedor JavaScript | AI Specialist| Copywritter 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
